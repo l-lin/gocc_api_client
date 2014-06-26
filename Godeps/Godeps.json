@@ -1,6 +1,9 @@
 {
 	"ImportPath": "gocc_api_client",
 	"GoVersion": "go1.3",
+	"Packages": [
+		"./..."
+	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/codegangsta/inject",
