@@ -1,0 +1,5 @@
+{
+	"ImportPath": "gocc_api_client",
+	"GoVersion": "go1.3",
+	"Deps": []
+}
