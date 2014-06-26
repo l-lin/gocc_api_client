@@ -1,5 +1,16 @@
 {
 	"ImportPath": "gocc_api_client",
 	"GoVersion": "go1.3",
-	"Deps": []
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1",
+			"Rev": "37d7f8432a3e684eef9b2edece76bdfa6ac85b39"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-12-gacd8dd3",
+			"Rev": "acd8dd3c3f49fe761830351c2710d192193ca236"
+		}
+	]
 }
